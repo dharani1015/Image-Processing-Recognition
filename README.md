@@ -65,4 +65,4 @@ python3 inject.py ./test_images/blank_form.jpg ./test_images/a-3_groundtruth.txt
 To run the extract.py python code, use:
 ```
 python3 extract.py injected.jpg output.txt
-``
+```
