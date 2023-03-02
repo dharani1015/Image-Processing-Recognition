@@ -1,4 +1,4 @@
-# Assignment 1: Image Processing and Recognition Basics
+# Image Processing and Recognition Basics
 
 ## Description
 
