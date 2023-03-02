@@ -65,12 +65,4 @@ python3 inject.py ./test_images/blank_form.jpg ./test_images/a-3_groundtruth.txt
 To run the extract.py python code, use:
 ```
 python3 extract.py injected.jpg output.txt
-```
-
-### Contributions of the authors:
-
-Himanshu Hansaria :- Created the end to end pipeline for grade.py including formulating an approach, writing code, conducting experiments, and the report for grade.py.
-
-Immanuel Savio :- Created the end to end pipeline for inject.py including testing different approaches, the approach to inject barcode, testing out the robustness and the report fot innject.py
-
-Dharani Doppalapudi :- Created the end to end pipeline for extract.py includig the approach to extract the answers from the barcode and writing it to the text file and the report for extract.py
+``
